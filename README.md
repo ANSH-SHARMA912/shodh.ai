@@ -9,6 +9,6 @@ This repository contains an end-to-end pipeline for a loan approval decision-mak
 - `data/` — place your CSV here (not included if large). See `data/README.md`.
 - `artifacts/` — saved preprocessor and models.
 - `report/final_report.md` — 2–3 page final report (PDF available).
-- `resume/` — your resume PDF.
+
 
 
